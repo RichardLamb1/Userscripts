@@ -1,6 +1,6 @@
-# Userscripts
+# Richard Lamb's Userscripts
 
-This repository contains userscripts you can install with a browser userscript manager.
+This repository contains my custom scripts that you can install and use yourself using a userscript manager.
 
 ## Install a userscript manager
 
